@@ -1,5 +1,5 @@
-#WavePortal: Ethereum DApp
---
+WavePortal: Ethereum DApp
+
  Built a Web App that can be used by users to greet each other and has a brief information about
 me.Using this App, users can wave at eachother along with a message. This data is saved on the
 blockchain through an Ethereum smart contract. Users need to connect their MetaMask wallets to
